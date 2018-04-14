@@ -2,6 +2,8 @@
 
 Comparaison des clients [Restemplate](https://spring.io/guides/gs/consuming-rest/) et [WebClient](http://www.baeldung.com/spring-5-webclient)
 
+[![Build Status](https://travis-ci.org/nduheron/rest-client-benhmark.svg?branch=master](https://travis-ci.org/nduheron/rest-client-benhmark)
+
 ## Scénario de test
 
 Le service effectue 1 requête à une API pour obtenir une liste d'identifiants utilisateurs (10 utilisateurs). Puis, pour chaque identifiant appelle l'API pour obtenir les infos de l'utilisateur.
