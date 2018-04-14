@@ -2,7 +2,7 @@
 
 Comparaison des clients [Restemplate](https://spring.io/guides/gs/consuming-rest/) et [WebClient](http://www.baeldung.com/spring-5-webclient)
 
-[![Build Status](https://travis-ci.org/nduheron/rest-client-benhmark.svg?branch=master](https://travis-ci.org/nduheron/rest-client-benhmark)
+[![Build Status](https://travis-ci.org/nduheron/rest-client-benhmark.svg?branch=master)](https://travis-ci.org/nduheron/rest-client-benhmark)
 
 ## Scénario de test
 
